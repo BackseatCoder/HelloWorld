@@ -1,0 +1,5 @@
+
+Rem Check my awesome skillz code
+
+10 Print "Hello World"
+20 Goto 10
