@@ -1,0 +1,5 @@
+
+Rem Check my awesome soundz
+
+10 Sound Beep
+20 Goto 10
