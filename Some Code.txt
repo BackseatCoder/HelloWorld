@@ -1,5 +1,5 @@
 
-Rem Check my awesome skillz code
+Rem Check my awesome skillz code II
 
 10 PrintOnScreen("Hello World")
 20 Goto 10
