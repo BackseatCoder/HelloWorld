@@ -1,5 +1,6 @@
 
 Rem Check my awesome skillz code II
+Rem By Dave Bealing
 
 10 PrintOnScreen("Hello World")
 20 Goto 10
