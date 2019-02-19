@@ -2,3 +2,6 @@ Apple
 Beetroot
 Carrot
 Damsel
+Egg plant
+Fruit
+Grapes
